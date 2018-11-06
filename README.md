@@ -16,3 +16,5 @@
 6. Diagram a domain that demonstrates a better design
 
 7. Out of your list choose one at a time and start to move logic out of `/lib`, test-driven.
+
+8.
